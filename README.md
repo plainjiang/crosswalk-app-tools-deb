@@ -13,7 +13,7 @@ the Crosswalk runtime, and git must be functional.
 
 1. Download Crosswalk app tools: `git clone https://github.com/crosswalk-project/crosswalk-app-tools.git`
 2. Initialize the Crosswalk app tools: `cd crosswalk-app-tools`, then `npm install`
-3. Checkout the iOS backend: `cd node_modules`, then `git clone https://github.com/crosswalk-project/crosswalk-app-tools-deb.git crosswalk-app-tools-backend-deb`
+3. Checkout the iOS backend: `cd node_modules`, then `git clone https://github.com/plainjiang/crosswalk-app-tools-deb.git crosswalk-app-tools-backend-deb`
 2. Install dependencies: `cd crosswalk-app-tools-backend-deb`, then `npm install`, and `cd ../..`
 3. The main script is `crosswalk-app-tools/bin/crosswalk-app`. Set environment PATH or invoke with directory.
 
